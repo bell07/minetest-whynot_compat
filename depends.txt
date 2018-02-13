@@ -1,0 +1,4 @@
+stairs?
+food?
+farming?
+homedecor?
